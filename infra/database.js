@@ -13,7 +13,6 @@ async function getNewClient() {
   return client;
 }
 
-
 async function query(queryObject) {
   let client;
 
